@@ -1,6 +1,6 @@
 #!/bin/bash
 
-blogName="muz-blog"
+blogName="blog"
 masterBranch="/home/storage/$blogName"
 productionBranch="~/$blogName"
 
